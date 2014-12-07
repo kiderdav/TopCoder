@@ -3,7 +3,7 @@ package main;
 public class Target {
 
 	public static void main(String[] args) {
-		int size = 9;
+		int size = 21;
 		System.out.println("Begin for " + size);
 		Target t = new Target();
 		String[] results = t.draw(size);
